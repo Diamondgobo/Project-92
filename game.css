@@ -1,0 +1,7 @@
+body{
+    background-image: url(backy.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+    height: 300px;
+    text-align:center;
+    }
